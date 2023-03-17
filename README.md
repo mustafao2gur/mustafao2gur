@@ -4,7 +4,9 @@
 </br>
 <font color="pink">🎆 Reading is my greatest pleasure in life. </font>
 </br>
-<font color="pink"> 🧐  </font>
+<font color="pink"> 🔭 I’m currently working on **Front-end Development </font>
+</br>
+<font color="pink"> 👯 I’m looking to collaborate on **JavaScript, React.js  </font>
 </br>
 <font color="pink">☕ Coffee is how I keep up with code</font>
 #### 📬 Connect with me:
