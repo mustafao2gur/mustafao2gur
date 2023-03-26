@@ -63,7 +63,11 @@
 </br>
 <!--<div  align="center"> <img src="https://raw.githubusercontent.com/scriptex/github-contributions-snake/snake/github-contribution-grid-snake.svg" /></div>-->
 <h2 align="center">My Projects</h2>
+
+
 ###
+
+Project Demo       |Libraries and Technologies I use  |Project Preview   
 :-------------------------|---------------------|------------------
 [React - Tailwind](https://food-app-react-project.netlify.app/) <h3>[Repo](https://food-app-react-project.netlify.app/)</h3> | React - Tailwind |<img src="https://media.giphy.com/media/ZeMPZf19iyAVkHyB3h/giphy.gif" align="right" width="500">
 [React - Hook -StyleComponent](https://classy-maamoul-be6003.netlify.app/) <h3>[Repo](https://classy-maamoul-be6003.netlify.app/)</h3> | React - Hook- StyleComponent |<img src="https://media.giphy.com/media/eZAEErBuMzfTaFu3Hg/giphy.gif" align="right" width="500">
@@ -80,4 +84,23 @@
 
 
 
+
+
+
+
+
+
+<br>
+
+<h2 align="center">💡Most Used Language</h2>
+<div  align="center">
+<br/>
+<img
+     src="https://github-readme-stats.vercel.app/api?username=Cakir010&theme=blue-green"
+     alt=""
+     /> </br></br></br>
+<img
+     src="https://github-readme-stats.vercel.app/api/top-langs/?username=Cakir010&theme=blue-green"
+     alt=""
+     /> <br/>
 </div>
