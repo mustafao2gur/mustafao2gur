@@ -89,7 +89,7 @@ Project Demo       |Libraries and Technologies I use  |Project Preview
 
 
 
-
+<!-- 
 <br>
 
 <h2 align="center">💡Most Used Language</h2>
@@ -102,5 +102,5 @@ Project Demo       |Libraries and Technologies I use  |Project Preview
 <img
      src="https://github-readme-stats.vercel.app/api/top-langs/?username=mustafao2gur&theme=blue-green"
      alt=""
-     /> <br/>
+     /> <br/> -->
 </div>
