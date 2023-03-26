@@ -64,8 +64,20 @@
 <!--<div  align="center"> <img src="https://raw.githubusercontent.com/scriptex/github-contributions-snake/snake/github-contribution-grid-snake.svg" /></div>-->
 <h2 align="center">My Projects</h2>
 ###
-Project Demo       |Libraries and Technologies I use  |Project Preview   
 :-------------------------|---------------------|------------------
-[React - Tailwind] |
+[React - Tailwind](https://food-app-react-project.netlify.app/) <h3>[Repo](https://food-app-react-project.netlify.app/)</h3> | React - Tailwind |<img src="https://media.giphy.com/media/ZeMPZf19iyAVkHyB3h/giphy.gif" align="right" width="500">
+[React - Hook -StyleComponent](https://classy-maamoul-be6003.netlify.app/) <h3>[Repo](https://classy-maamoul-be6003.netlify.app/)</h3> | React - Hook- StyleComponent |<img src="https://media.giphy.com/media/eZAEErBuMzfTaFu3Hg/giphy.gif" align="right" width="500">
+[React - State-Hook](https://snazzy-sherbet-4cddea.netlify.app/) <h3>[Repo](https://snazzy-sherbet-4cddea.netlify.app/)</h3> | React - State-Hook |<img src="https://media.giphy.com/media/4K3nVCNakT4xdZdbi9/giphy.gif" align="right" width="500">
+[HTML-CSS-JavaScript](https://cakir010.github.io/Piano-Project/) <h3>[Repo](https://cakir010.github.io/Piano-Project/)</h3> | JS - Array İteration |<img src="https://media.giphy.com/media/LosYNd6N5CST7doZom/giphy.gif" align="right" width="500">
+[HTML-CSS-JavaScript](https://cakir010.github.io/Weather-App-Project/) <h3>[Repo](https://cakir010.github.io/Weather-App-Project/)</h3> | JS - DOM |<img src="https://media.giphy.com/media/wULNlrSgUgMWXR72YB/giphy.gif" align="right" width="500">
+[HTML-CSS-JavaScript](https://cakir010.github.io/Todo-List-Project/) <h3>[Repo](https://cakir010.github.io/Todo-List-Project/)</h3> | JS - Array İteration |<img src="https://media.giphy.com/media/DccZ4GEmpqkTDKzrM1/giphy.gif" align="right" width="500">
+[HTML-CSS-JavaScript](https://cakir010.github.io/Random-generator/) <h3>[Repo](https://cakir010.github.io/Random-generator/)</h3> | JS - Array İteration |<img src="https://media.giphy.com/media/bPj8fVRfv8ZyKLikGn/giphy.gif" align="right" width="500">
+[React - SASS ](https://github.com/Cakir010/Sass-Proje-React) <h3>[Repo](https://github.com/Cakir010/Sass-Proje-React) </h3> | React - Sass  |<img src="https://media.giphy.com/media/Ty4KM5LDfwfksLn3MK/giphy.gif" align="right" width="500">
+
+
+
+
+
+
 
 </div>
