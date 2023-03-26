@@ -1,4 +1,4 @@
-<img src="https://media.giphy.com/media/L1R1tvI9svkIWwpVYr/giphy.gif" align="right" width="500"></br>
+<img src="https://camo.githubusercontent.com/683e2187241c641430216c864ce93fc5a0e0dfb232c5a01d1c54b54d63aa8cb2/68747470733a2f2f63646e2e6472696262626c652e636f6d2f75736572732f313136323037372f73637265656e73686f74732f333834383931342f70726f6772616d6d65722e676966" align="right" width="500"></br>
 ## 👷🏻‍♀️👋🏻 Hi there, I'm Mustafa ÖZGÜR
 <font color="pink"> 🐱‍🏍 I'm Full Stack Developer </font>
 </br>
